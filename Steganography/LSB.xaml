@@ -1,0 +1,29 @@
+﻿<UserControl x:Class="Steganografia_implementacja.LSB"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Steganografia_implementacja"
+             mc:Ignorable="d" Height="609" Width="939">
+    <Grid Margin="0,12,14,-2">
+        <Button Content="Wczytaj" HorizontalAlignment="Left" Margin="45,340,0,0" VerticalAlignment="Top" Width="74" Click="Button_Click"/>
+        <Image x:Name="Obraz" HorizontalAlignment="Left" Height="269" Margin="40,64,0,0" VerticalAlignment="Top" Width="394"/>
+        <TextBox x:Name="tekst" HorizontalAlignment="Left" Height="109" Margin="29,385,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="224" />
+        <Button Content="Ukryj" HorizontalAlignment="Left" Margin="33,547,0,0" VerticalAlignment="Top" Width="76" Click="Button_Click_1" Height="21"/>
+        <Image x:Name="Obraz1" HorizontalAlignment="Left" Height="268" Margin="488,67,0,0" VerticalAlignment="Top" Width="394"/>
+        <Button Content="Zapisz" HorizontalAlignment="Left" Height="20" Margin="115,549,0,0" VerticalAlignment="Top" Width="76" Click="Button_Click_3"/>
+        <Button Content="Odkryj" HorizontalAlignment="Left" Height="22" Margin="459,544,0,0" VerticalAlignment="Top" Width="62" RenderTransformOrigin="1.226,0.273" Click="Button_Click_4"/>
+        <Button Content="Wczytaj" HorizontalAlignment="Left" Margin="492,339,0,0" VerticalAlignment="Top" Width="76" Click="Button_Click_5"/>
+        <Label Content="Oryginalny plik" HorizontalAlignment="Left" Margin="36,30,0,0" VerticalAlignment="Top"/>
+        <Label Content="Plik z ukrytą informacją" HorizontalAlignment="Left" Margin="488,24,0,0" VerticalAlignment="Top"/>
+        <Label Content="Informacja do ukrycia" HorizontalAlignment="Left" Margin="34,362,0,0" VerticalAlignment="Top"/>
+        <Label Content="Ukryta informacja" HorizontalAlignment="Left" Margin="452,356,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="tekst2" HorizontalAlignment="Left" Height="109" Margin="452,381,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="224" />
+        <TextBox x:Name="start" HorizontalAlignment="Left" Height="23" Margin="34,519,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="126"/>
+        <Label Content="Początek zapisu " HorizontalAlignment="Left" Margin="32,496,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="start2" HorizontalAlignment="Left" Height="23" Margin="456,515,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="126" />
+        <Label Content="Początek odczytu " HorizontalAlignment="Left" Margin="454,492,0,0" VerticalAlignment="Top"/>
+        <Button Content="?" HorizontalAlignment="Left" Margin="841,527,0,0" VerticalAlignment="Top" Width="75" Height="49" Click="Button_Click_2" FontSize="22"/>
+        <Button Content="Wczytaj tekst" HorizontalAlignment="Left" Margin="179,502,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_6"/>
+    </Grid>
+</UserControl>

@@ -1,0 +1,65 @@
+C:\Users\PM\Desktop\Steganografia-implementacja\Steganografia-implementacja\bin\Debug\Steganografia-implementacja.exe.config
+C:\Users\PM\Desktop\Steganografia-implementacja\Steganografia-implementacja\bin\Debug\Steganografia-implementacja.exe
+C:\Users\PM\Desktop\Steganografia-implementacja\Steganografia-implementacja\bin\Debug\Steganografia-implementacja.pdb
+C:\Users\PM\Desktop\Steganografia-implementacja\Steganografia-implementacja\obj\Debug\Steganografia-implementacja.csprojResolveAssemblyReference.cache
+C:\Users\PM\Desktop\Steganografia-implementacja\Steganografia-implementacja\obj\Debug\MainWindow.g.cs
+C:\Users\PM\Desktop\Steganografia-implementacja\Steganografia-implementacja\obj\Debug\App.g.cs
+C:\Users\PM\Desktop\Steganografia-implementacja\Steganografia-implementacja\obj\Debug\Steganografia-implementacja_MarkupCompile.cache
+C:\Users\PM\Desktop\Steganografia-implementacja\Steganografia-implementacja\obj\Debug\Steganografia-implementacja_MarkupCompile.lref
+C:\Users\PM\Desktop\Steganografia-implementacja\Steganografia-implementacja\obj\Debug\MainWindow.baml
+C:\Users\PM\Desktop\Steganografia-implementacja\Steganografia-implementacja\obj\Debug\Steganografia-implementacja.g.resources
+C:\Users\PM\Desktop\Steganografia-implementacja\Steganografia-implementacja\obj\Debug\Steganografia_implementacja.Properties.Resources.resources
+C:\Users\PM\Desktop\Steganografia-implementacja\Steganografia-implementacja\obj\Debug\Steganografia-implementacja.csproj.GenerateResource.Cache
+C:\Users\PM\Desktop\Steganografia-implementacja\Steganografia-implementacja\obj\Debug\Steganografia-implementacja.csproj.CoreCompileInputs.cache
+C:\Users\PM\Desktop\Steganografia-implementacja\Steganografia-implementacja\obj\Debug\Steganografia-implementacja.exe
+C:\Users\PM\Desktop\Steganografia-implementacja\Steganografia-implementacja\obj\Debug\Steganografia-implementacja.pdb
+C:\Users\PM\Desktop\Steganografia-implementacja\Steganografia-implementacja\obj\Debug\LSB.g.cs
+C:\Users\PM\Desktop\Steganografia-implementacja\Steganografia-implementacja\obj\Debug\Patchwork.g.cs
+C:\Users\PM\Desktop\Steganografia-implementacja\Steganografia-implementacja\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PM\Desktop\Steganografia-implementacja\Steganografia-implementacja\obj\Debug\LSB.baml
+C:\Users\PM\Desktop\Steganografia-implementacja\Steganografia-implementacja\obj\Debug\Patchwork.baml
+C:\Users\PM\Desktop\Steganografia-implementacja\Steganografia-implementacja\obj\Debug\Zasada_działania.g.cs
+C:\Users\PM\Desktop\Steganografia-implementacja\Steganografia-implementacja\obj\Debug\Zasada_działania.baml
+C:\Users\PM\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\Steganografia-implementacja\bin\Debug\Steganografia-implementacja.exe.config
+C:\Users\PM\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\Steganografia-implementacja\bin\Debug\Steganografia-implementacja.exe
+C:\Users\PM\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\Steganografia-implementacja\bin\Debug\Steganografia-implementacja.pdb
+C:\Users\PM\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\Steganografia-implementacja\obj\Debug\Steganografia-implementacja.csprojResolveAssemblyReference.cache
+C:\Users\PM\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\Steganografia-implementacja\obj\Debug\LSB.g.cs
+C:\Users\PM\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\Steganografia-implementacja\obj\Debug\MainWindow.g.cs
+C:\Users\PM\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\Steganografia-implementacja\obj\Debug\Patchwork.g.cs
+C:\Users\PM\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\Steganografia-implementacja\obj\Debug\Zasada_działania.g.cs
+C:\Users\PM\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\Steganografia-implementacja\obj\Debug\App.g.cs
+C:\Users\PM\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\Steganografia-implementacja\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PM\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\Steganografia-implementacja\obj\Debug\Steganografia-implementacja_MarkupCompile.cache
+C:\Users\PM\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\Steganografia-implementacja\obj\Debug\Steganografia-implementacja_MarkupCompile.lref
+C:\Users\PM\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\Steganografia-implementacja\obj\Debug\LSB.baml
+C:\Users\PM\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\Steganografia-implementacja\obj\Debug\MainWindow.baml
+C:\Users\PM\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\Steganografia-implementacja\obj\Debug\Patchwork.baml
+C:\Users\PM\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\Steganografia-implementacja\obj\Debug\Zasada_działania.baml
+C:\Users\PM\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\Steganografia-implementacja\obj\Debug\Steganografia-implementacja.g.resources
+C:\Users\PM\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\Steganografia-implementacja\obj\Debug\Steganografia_implementacja.Properties.Resources.resources
+C:\Users\PM\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\Steganografia-implementacja\obj\Debug\Steganografia-implementacja.csproj.GenerateResource.Cache
+C:\Users\PM\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\Steganografia-implementacja\obj\Debug\Steganografia-implementacja.csproj.CoreCompileInputs.cache
+C:\Users\PM\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\Steganografia-implementacja\obj\Debug\Steganografia-implementacja.exe
+C:\Users\PM\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\Steganografia-implementacja\obj\Debug\Steganografia-implementacja.pdb
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\bin\Debug\Steganografia-implementacja.exe.config
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\bin\Debug\Steganografia-implementacja.exe
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\bin\Debug\Steganografia-implementacja.pdb
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\obj\Debug\Steganografia-implementacja.csprojAssemblyReference.cache
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\obj\Debug\LSB.g.cs
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\obj\Debug\MainWindow.g.cs
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\obj\Debug\Patchwork.g.cs
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\obj\Debug\Zasada_działania.g.cs
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\obj\Debug\App.g.cs
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\obj\Debug\Steganografia-implementacja_MarkupCompile.cache
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\obj\Debug\Steganografia-implementacja_MarkupCompile.lref
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\obj\Debug\LSB.baml
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\obj\Debug\MainWindow.baml
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\obj\Debug\Patchwork.baml
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\obj\Debug\Zasada_działania.baml
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\obj\Debug\Steganografia-implementacja.g.resources
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\obj\Debug\Steganografia_implementacja.Properties.Resources.resources
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\obj\Debug\Steganografia-implementacja.csproj.GenerateResource.cache
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\obj\Debug\Steganografia-implementacja.exe
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_9\Steganografia-implementacja\obj\Debug\Steganografia-implementacja.pdb

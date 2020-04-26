@@ -1,0 +1,17 @@
+﻿<Window x:Class="Steganografia_implementacja.Zasada_działania"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Steganografia_implementacja"
+        mc:Ignorable="d"
+        Title="Zasada_działania" Height="302" Width="661.106">
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Height="78" Margin="29,55,0,0" TextWrapping="Wrap" Text="&#x9;Działanie algorytmu najmniej znaczączego bitu polega na zmianie najmniej znaczącego bitu słowa opisującego dany pixel. Jej wynik zależy ściśle od liczby bitów przeznaczonych do zapisu pojedynczego piksela: im więcej bitów opisuje dany piksel, tym mniejsze znaczenie ma dla globalnego odczucia odbiorcy modyfikacja jednego lub kilku ostatnich bitów." VerticalAlignment="Top" Width="602" BorderBrush="White"/>
+        <Label Content="Źródło:  &quot;Ochrona danych i zabezpieczenia w systemach teleinformatycznych&quot;, pod red. Janusza Stokłosy, Wyd. 2 popr. , Poznań, &#xA;&#x9;Wydawnictwo Politechniki Poznańskiej, 2005, ISBN 83-7143-478-2." HorizontalAlignment="Left" Margin="38,230,0,0" VerticalAlignment="Top" Width="607" Height="36" FontSize="9"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="29,19,0,0" TextWrapping="Wrap" Text="Algorytm LSB (najmniej znaczącego bitu)" VerticalAlignment="Top" Width="266" TextChanged="TextBox_TextChanged" FontSize="16" BorderBrush="White"/>
+        <Label Content="&#xD;&#xA;Wiedomość umieszczana jest poziomo. Na pierwszych 8 bitach ukryta jest długość całej wiadomości. Możliwy &#xD;&#xA;jest wybór początku osadzania wiadomości. W przypadku zbyt długiej wiadomości lub wybrania początku&#xD;&#xA; osadzania, który uniemożliwi ukrycie wiadomości, na ekranie pojawia się okno informujące o zaistniałej sytuacji.&#xD;&#xA;" HorizontalAlignment="Left" Margin="32,143,-153,0" VerticalAlignment="Top" Width="774" Height="84"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="31,131,0,0" TextWrapping="Wrap" Text="Specyfikacja założeń:" VerticalAlignment="Top" Width="266" TextChanged="TextBox_TextChanged" FontSize="16" BorderBrush="White"/>
+
+    </Grid>
+</Window>
